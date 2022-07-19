@@ -45,7 +45,8 @@ ap.add_argument("-e", "--height", type=int, default=320,
 ap.add_argument("-p", "--padding", type=float, default=0.0,
 	help="amount of padding to add to each border of ROI")
 args = vars(ap.parse_args())
-image = cv2.imread(args["image"])
+#image = cv2.imread(args["image"])
+#Image Input from which text to read
 orig = image.copy()
 (origH, origW) = image.shape[:2]
 (newW, newH) = (args["width"], args["height"])
