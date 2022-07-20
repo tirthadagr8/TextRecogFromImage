@@ -66,6 +66,7 @@ See below for our future steps.
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running.
+Before getting on with the installations, make sure to download the frozen_east_text_recognition.pb from [link](https://drive.google.com/drive/folders/1Fta1KanMe7Pv6u9beUk8llbca77LOeax?usp=sharing).
 Installing Tesseract v4:
 - In Windows: Under python Terminal type: pip install tesseract.
 Installing OpenCV:
