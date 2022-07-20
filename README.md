@@ -5,7 +5,7 @@
 
 Recognizes text from any images and prints them.
 
-## Contents
+## Contents 
 
 - [OCR Text Recognition](#ocr-text-recognition)
   - [Contents](#contents)
